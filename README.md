@@ -4,7 +4,7 @@
 | -------- | -------- | ----------- |
 | [10 Core Memory Verses](10-Core-Memory-Verses.playlist.zip) | Memory | Ten of the most frequently memorized verses, each spoken twice with a brief pause. |
 | [23rd Psalm Variations](23rd-Psalm-Variations.playlist.zip) | Memory | Psalm 23 read once, then a plain-text meditation on its key images. |
-| [Armor of God](Armor-Of-God.playlist.zip) | Foundations | Ephesians 6:10-18 read and then each piece of armor unpacked. |
+| [Armor of God](Armor-Of-God.playlist.zip) | Bible | Ephesians 6:10-18 read and then each piece of armor unpacked. |
 | [Bedtime Psalms](Bedtime-Psalms.playlist.zip) | Daily | Gentle Psalms and short restful passages, with a slow, quiet framing. |
 | [Comfort in Sorrow](Comfort-In-Sorrow.playlist.zip) | Comfort | Verses about God's nearness in grief, anxiety, and loss. |
 | [Genesis: Beginnings](Genesis-Beginnings.playlist.zip) | Overview | A curated playlist of Genesis 1-11 highlights: creation, fall, flood, Babel, and the call of Abraham. |
