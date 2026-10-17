@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-08T00:00:00.000Z",
+  "updatedAt": "2026-10-17T00:00:00.000Z",
   "packages": [
     {
       "id": "10-core-memory-verses",
@@ -58,20 +58,6 @@
         "daily",
         "psalms",
         "bedtime"
-      ],
-      "version": "1.0.0"
-    },
-    {
-      "id": "benedictions-and-blessings",
-      "type": "playlist",
-      "path": "Benedictions-And-Blessings.playlist.zip",
-      "name": "Benedictions and Blessings",
-      "description": "Scripture blessings to send someone off, end a meeting, or close a day.",
-      "author": "Theodia",
-      "tags": [
-        "playlist",
-        "worship",
-        "blessings"
       ],
       "version": "1.0.0"
     },
@@ -191,21 +177,6 @@
         "gospel",
         "parables",
         "jesus"
-      ],
-      "version": "1.0.0"
-    },
-    {
-      "id": "the-psalms-of-praise",
-      "type": "playlist",
-      "path": "The-Psalms-Of-Praise.playlist.zip",
-      "name": "The Psalms of Praise",
-      "description": "A short collection of Psalms focused on praise and thanksgiving.",
-      "author": "Theodia",
-      "tags": [
-        "playlist",
-        "worship",
-        "psalms",
-        "praise"
       ],
       "version": "1.0.0"
     },
