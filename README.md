@@ -15,3 +15,9 @@
 | [The Lord's Prayer](The-Lords-Prayer.playlist.zip) | Memory | The Lord's Prayer from Matthew 6, spoken slowly, then phrase by phrase. |
 | [The Parables of Jesus](The-Parables-Of-Jesus.playlist.zip) | Gospel | A sampler of Jesus' parables with brief context tracks. |
 | [Words for a Good Life](Words-For-A-Good-Life.playlist.zip) | Wisdom | Proverbs selections on speech, work, friendship, money, and humility. |
+
+### Download Theodia.app
+
+- [App Store](https://apps.apple.com/us/app/theodia/id6783143344)
+- [Google Play](https://play.google.com/store/apps/details?id=com.ecodia.theodia)
+
